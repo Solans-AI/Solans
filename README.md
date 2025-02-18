@@ -141,7 +141,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Project Homepage: [GitHub](https://github.com/Solans-AI/Solans)
 - Issue Tracker: [Issues](https://github.com/Solans-AI/Solans/issues)
-- Community: [Discord](https://discord.gg/yourdiscord)
 
 ---
 
